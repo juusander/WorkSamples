@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS `crm`;
- CREATE TABLE `crm` (
+ CREATE TABLE `Customer` (
   `id` mediumint(9) NOT NULL auto_increment,
   `c_name` char(30) NOT NULL,
   `c_name2` char(30) NOT NULL,
