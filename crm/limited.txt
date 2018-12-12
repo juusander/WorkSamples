@@ -1,0 +1,9 @@
+<select name="limited">
+<option value="0">none
+<option value="1">weekdays
+<option value="2">weekends
+<option value="3">breakfast(07-09)
+<option value="4">lunch(11-14)
+<option value="5">dinner(16-18)
+<option value="6">supper(19-21)
+</select>
